@@ -40,3 +40,4 @@ You can preview the production build with `npm run preview`.
 ### Ideas for the future
 
 - [ ] Add ability to view the code for the the components on the page
+- [ ] Multiplayer Google dinosaur game
