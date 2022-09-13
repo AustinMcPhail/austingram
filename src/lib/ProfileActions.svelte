@@ -16,12 +16,17 @@
 <style>
 	.name {
 		display: flex;
+		flex-wrap: wrap;
+		gap: var(--lg);
 		align-items: center;
 	}
 	.name ul {
 		display: flex;
+		flex-wrap: wrap;
 		align-items: center;
 		gap: var(--sm);
+
+		padding: 0;
 	}
 	.more {
 		white-space: nowrap;

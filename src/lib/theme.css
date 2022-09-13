@@ -4,7 +4,7 @@
 
 body {
 	font-family: var(--font-family);
-	font-size: var(--font-size);
+	font-size: clamp(var(--font-size-min), 1.5vw, var(--font-size-max));
 	margin: 0;
 	padding: 0;
 

@@ -33,6 +33,8 @@
 		display: flex;
 		flex-direction: row;
 		position: relative;
+
+		gap: var(--lg);
 	}
 
 	.info {
